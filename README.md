@@ -1,1 +1,1 @@
-# OOP-SE-2019-Pattern
+Second year Object Oriented Programming Codes in C++
